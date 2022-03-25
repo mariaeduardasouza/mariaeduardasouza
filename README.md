@@ -1,8 +1,5 @@
 ### Oii! Eu sou a Maria Eduarda.
 
-- 🔭 Atualment trabalho com front-end.
-- 🌱 Estudando typescript, react.js, next.js.
-
 <div align="center">
   <a href="https://github.com/mariaeduardasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardasouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
