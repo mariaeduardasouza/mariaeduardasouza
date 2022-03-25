@@ -1,4 +1,4 @@
-### Oii! Eu sou a Maria Eduarda.
+### Oii! Eu sou a Maria Eduarda👽.
 
 <div align="center">
   <a href="https://github.com/mariaeduardasouza">
